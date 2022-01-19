@@ -1,0 +1,8 @@
+[app]
+name = "wry-mobile"
+stylized-name = "Wry Mobile"
+domain = "example.com"
+template-pack = "winit"
+
+[apple]
+development-team = "H47LR8SAAZ"
