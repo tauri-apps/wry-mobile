@@ -10,6 +10,16 @@ Build with [cargo mobile](https://github.com/BrainiumLLC/cargo-mobile) for our t
 cargo install --git https://github.com/BrainiumLLC/cargo-mobile
 ```
 
+## Init the template
+
+Move into this repo and then:
+
+```
+cargo mobile init
+```
+
+If you don't know your apple team id yet. Best way for now is create another directory and init the mobile project to find it. And then replace it in `mobile.toml`.
+
 ## iOS
 
 ### Open the project in XCode
